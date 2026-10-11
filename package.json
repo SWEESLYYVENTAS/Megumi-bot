@@ -1,0 +1,10 @@
+ {
+  "name": "megumi-bot",
+  "version": "1.0.0",
+  "description": "Bot de administración de grupos de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true
+}
